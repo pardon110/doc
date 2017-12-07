@@ -244,7 +244,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 10px;
-    background-image: url('/static/image/head.png');
+    background-image: url('/static/image/head.jpg');
     background-size: 120%;
     background-position: center;
     border-radius: 50%;
